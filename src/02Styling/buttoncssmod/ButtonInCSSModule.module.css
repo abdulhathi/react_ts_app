@@ -1,0 +1,18 @@
+.buttonStyle {
+  padding: 10px 50px;
+  color: white;
+  border-radius: 5px;
+}
+.buttonPrimary {
+  background-color: rgb(71, 71, 221);
+}
+.buttonSecondary {
+  background-color: rgb(236, 138, 0);
+}
+.buttonDanger {
+  background-color: rgb(236, 0, 51);
+}
+.buttonStyle:hover {
+  border: 1px solid darkblue;
+  font-weight: bold;
+}
